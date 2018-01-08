@@ -1,0 +1,12 @@
+﻿#过滤根目录下的node_modules文件夹
+/aa/
+/dist/
+/node_modules/
+/nodejs/
+
+
+#过滤文件
+*.zip
+*.rar
+*.7z
+es5.js

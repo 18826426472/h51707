@@ -1,0 +1,39 @@
+#footer { width: 1100px; margin: 0 auto; height: 85px; }
+
+#footer .ulf { width: 100%; margin-top: 30px; color: black; font-size: 16px; }
+
+#footer .ulf li { position: relative; float: left; width: 20%; padding-left: 50px; }
+
+#footer .ulf li i { display: block; width: 45px; height: 45px; position: absolute; left: 0px; top: 0px; background: url("img/sprit.png"); }
+
+#footer .uls { width: 100%; font-size: 14px; }
+
+#footer .uls li { float: left; width: 20%; padding-left: 50px; }
+
+.border { height: 3px; width: 100%; background: #ccc; }
+
+.footerc dl { margin-left: 110px; float: left; }
+
+.footerc dl dt { font-size: 16px; color: black; }
+
+.footerc dl dd { font-size: 14px; color: #ccc; }
+
+.footerc img { margin-top: 20px; margin-left: 30px; }
+
+.ljie { text-align: center; margin-top: 30px; width: 100%; background: #444851; height: 36px; }
+
+.ljie div { margin: 0 160px; padding: 11px 0px; height: 40px; }
+
+.ljie div ul { float: left; }
+
+.ljie div ul li { padding: 0px 20px; color: #ADADAD; font-size: 12px; float: left; }
+
+.ljie div ul li a { border-left: 1px solid #4E5553; }
+
+.ljie p { font-size: 14px; position: relative; }
+
+.ljie p img { position: absolute; top: -21px; left: 66px; }
+
+.ljie p:nth-of-type(1) { text-indent: 4em; }
+
+.ljie P:nth-of-type(2) { text-indent: 1em; }

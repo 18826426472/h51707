@@ -1,0 +1,71 @@
+#main { width: 1190px; margin: 0 auto; }
+
+#main .top { height: 49px; width: 1190px; margin: 0 auto; border-top: 1px solid #ccc; }
+
+#main #main-c { margin-bottom: 200px; }
+
+#main #main-c .main-cl .gds { width: 350px; height: 350px; border: 1px solid #ccc; margin-bottom: 30px; }
+
+#main #main-c .main-cl .gds img { width: 300px; }
+
+#main #main-c .gdsb { position: absolute; }
+
+#main #main-c .gdsb i { display: block; width: 30px; height: 77px; background: url("../img/sprit.png") no-repeat; position: absolute; top: 1%; }
+
+#main #main-c .gdsb i:nth-of-type(1) { left: -9%; }
+
+#main #main-c .gdsb i:nth-of-type(2) { right: -7%; }
+
+#main #main-c .gdsb ul li { float: left; margin-right: 10px; }
+
+#main #main-c .gdsb ul li img { width: 80px; height: 80px; border: 1px solid #ccc; }
+
+#main #main-c .gdsb ul li img:hover { border: 1px solid red; }
+
+#main .main-cc { width: 650px; padding-left: 20px; }
+
+#main .main-cc .dprice { background: #F7F7F7; }
+
+#main .main-cc .hsj { background: #B3AFE1; border-radius: 4px; margin-left: 20px; }
+
+#main input { border: 1px solid #ccc; width: 50px; padding-left: 20px; margin-left: 5px; }
+
+#main .dw { margin: 10px; }
+
+#main .dw span { width: 50px; border: 1px solid #ccc; padding: 3px; }
+
+#main .dw span:hover { border: 1px solid red; }
+
+#main button { background: #CC1D00; color: white; width: 180px; height: 50px; font-size: 19px; margin-top: 30px; }
+
+#dp { margin-bottom: 100px; }
+
+#dp ul li { width: 200px; }
+
+#dp ul li img { width: 180px; height: 180px; }
+
+#dp .daipei { height: 40px; width: 100%; margin-bottom: 50px; }
+
+#dp .daipei li { float: left; padding-left: 100px; }
+
+#dp ul, #dp li { float: left; }
+
+#jieshao .jieshao-l { width: 150px; text-align: center; padding: 50px; }
+
+#jieshao .jieshao-l ul { width: 200px; border: 2px solid dashed; }
+
+#jieshao .jieshao-l ul li { width: 200px; border: 2px solid dashed; }
+
+#jieshao .jieshao-l img { width: 150px; }
+
+#jieshao .jieshao-c { width: 1000px; }
+
+#jieshao .jieshao-c h3 { background: #ccc; width: 800px; margin-bottom: 100px; }
+
+#jieshao .jieshao-c h3 .sp1 { background: white; }
+
+#jieshao .allpj { height: 500px; width: 100%; background: #ccc; display: none; }
+
+#jieshao .allphoto { height: 2000px; width: 100%; background: red; }
+
+.jydh { position: fixed; top: 0px; left: 0px; background: #ccc; height: 50px; width: 100%; display: none; }

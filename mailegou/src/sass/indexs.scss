@@ -1,0 +1,124 @@
+#zdq .jss .bgc{
+   background:#CB3E25;
+}
+#banner{
+    width: 800px;height: 474px;
+    overflow:hidden;
+    margin:0 auto;
+  
+
+}
+#ban{
+        position:relative;
+        padding-left: 10px;
+    .banr{
+             position:absolute;
+            top:0%;
+            right:4%;
+            z-index:-400;
+        
+    }
+}
+#zdq{width: 1000px;margin:0 auto;padding-top:30px;
+    i{display:inline-block;width:40px;height:40px;
+        background:url('img/sprit.png') no-repeat;
+
+    }
+    .jss{ 
+        width:100%;
+        text-align:center;
+        margin-bottom:51px;
+        li{
+            float:left;
+            width:20%;
+            background:#444851;
+            // &:nth-of-type(1){
+            //     background:#CB3E25;
+            // }
+        }
+    }
+    .pp{margin-bottom:90px;}
+}
+.qhbox{
+    position:relative;
+    overflow:hidden;
+    width: 1000px;
+    margin: 0 auto;
+    height: 350px;
+    i{
+        display: block;
+        z-index:999;width: 27px;height: 83px;
+        position:absolute;top:30%;background:url('../img/sprit.png') no-repeat;
+
+    }
+     i:nth-of-type(1){left:0%; }
+     i:nth-of-type(2){right:0%;}
+    .zdqul{
+        position:absolute;
+        li{width: 250px;
+            float:left;
+            text-align:center;
+            img{width: 250px;}
+        }
+    }
+ 
+
+}
+#zdq{
+    .qg2{
+        display:none;
+    }
+}
+.tmdiv{
+    width:1000px;
+    margin:0 auto;
+    margin-bottom: 50px;
+
+#tm{
+    li{float:left;
+        width: 20%;
+        overflow:hidden;
+    .tmm{
+        overflow: hidden;
+        height:160px;
+    }
+    img{width: 160px;
+    }
+    }
+}
+}
+#f1{
+
+    width:1000px;
+    margin:0 auto;
+    .f1fl{
+        width:100px;
+        h3{
+            background:blue;
+            color:white;
+        }
+        ul{
+            li{height: 20px}
+        }
+        .littleban{
+    position:relative;
+      ul{li{
+        height:78px;
+        }
+    }
+        }
+    }
+    .f1fc{
+        width: 500px;
+        margin-left:30px;
+        img{
+            margin-bottom:15px;
+        }
+    }
+    .f1fcc,.f1fr{width: 180px;
+        img{
+            margin-bottom:15px;
+        }
+    }
+    
+}

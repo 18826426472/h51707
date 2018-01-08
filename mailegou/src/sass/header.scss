@@ -1,0 +1,132 @@
+#header{
+    .box{width: 100%;background:red;
+        span{vertical-align:top;color:white;
+        }
+    }
+    .header-right{width: 50px;height:693px;background: black;position:fixed;top:0px;right:0px;color:white;text-align: center;padding-top:80px;
+    img{position:absolute;top:20px;left:-20px;
+        }
+    a{
+        span{
+            margin-top: 20px
+        }
+        i{display: block;border-radius:50%;background:red;
+            width: 25px;height: 25px;margin: 0 auto;
+        }
+    }
+    .fr-b{padding-top:260px;
+        span{
+            i{display:block;height: 30px;width: 30px;background:url('../img/sprit.png') no-repeat;margin:0 auto;}
+        }
+    }
+    }
+}
+#header{
+    .header-bottom{
+        margin-left:52px;
+        ul{
+            li{
+                
+                padding:5px 10px;
+                float:left;
+                a{
+                    line-height: 12px;
+
+                    i{ 
+                        display:inline-block;
+                        height: 15px;
+                        width:20px;
+                        background:url('../img/sprit.png' ) no-repeat;
+                    }
+                    // span{vertical-align:top;}
+                }
+                
+            }
+            li:nth-of-type(4){
+                span{
+                   background:url('../img/sprit.png') no-repeat;width: 15px;height: 15px;display: inline-block;
+                }
+            }
+        }
+        ul.fr{
+            margin-right: 70px;
+            li{ position:relative;
+                border-right: 1px solid #ccc;
+                i{display:inline-block;height: 15px;width: 20px;background:url('../img/sprit.png') no-repeat;
+                }
+            }
+            .em{display:none;}
+            .eem:hover .em{display:block;position:absolute;top:27px;left:-110px;}
+            .mygou ul{
+                height:31px;
+                display:none;
+                overflow:hidden;
+                position:absolute;top:0px;left:-3px;background:white;border:1px solid black;
+                li{border:none;float: none;width:113px;
+                }
+            }
+        }
+    }
+}
+#header{
+    .hfl{padding-left:50px;
+        padding-right:110px;}
+    .hct{width:530px;
+        p:nth-of-type(1){
+          padding-top: 40px;  
+        input{
+            width: 400px;height: 40px;border:1px solid red;
+        }
+        button{width: 94px;padding:6px 15px;font-size:22px;background:red;color:white;}
+
+        }
+    }
+    .hcl{margin-right: 56px;padding-top: 10px;}
+}
+
+
+
+// ok
+#header{
+    .headfooter{
+        .hfooterl{
+            padding-left: 52px;position:relative;
+            ul{ position:absolute;float:left ;
+                .fli{height: 32px;width: 180px;background:#CB3E25;padding:4px 40px;}
+                .dht{position:absolute;top:37px;left:0px;z-index:900;
+                    li{width: 181px;height: 52px;background:#CB3E25;color:white;position:relative;padding-right:40px;font-size:12px;}
+                    i{display:inline-block;width: 35px;height: 100%;background: url('../img/sprit.png') no-repeat;float:left;}
+                }
+            }
+        }
+        .hfooterc{
+            ul{ margin-left: 230px;
+               
+                li{
+                    padding:5px 13px;
+                    float:left;position:relative;
+                    .ydt{display: block;width:31px;height: 2px;background:red;position:absolute;}
+                    .ydt:after{
+                        content:'';
+                        display:block;
+                        border:5px solid transparent;
+                        border-bottom:5px solid red;
+                        position:absolute;left:35%;top:-9px;
+                    }
+                }
+            }
+        }
+        .hfooterr{
+            padding-left: 49px;
+            margin-right:70px;background:#F9F9F9;font-size: 16px;
+            span{display: inline-block;height: 30px;width: 30px;background:url('../img/sprit.png') no-repeat;}
+            a{display: inline-block;height: 100%;
+                i{   display: inline-block;
+                    vertical-align:top;margin-top: 5px;
+                    }}
+        }
+    }
+}
+
+
+

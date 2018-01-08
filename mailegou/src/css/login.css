@@ -1,0 +1,29 @@
+#main .main-t { height: 136px; width: 100%; padding: 27px 150px; }
+
+#main .main-t img:nth-of-type(2) { margin-top: 30px; }
+
+#main .m-center { padding: 30px 40px 30px 140px; }
+
+#main .divs { width: 370px; padding: 25px 10px 0px 38px; border: 1px solid #ccc; border-top: 3px solid red; }
+
+#main .divs .spn1 { font-size: 14px; }
+
+#main .divs .spn0 { font-size: 16px; }
+
+#main .divs input { width: 190px; height: 34px; border: 1px solid #ccc; margin-bottom: 25px; }
+
+#main .divs input:nth-of-type(1) { margin-top: 25px; }
+
+#main .divs .ycode { display: inline-block; vertical-align: top; padding-top: 5px; }
+
+#main .divs .hyz { vertical-align: top; margin-top: 10px; }
+
+#main .divs .xinxi { margin-left: 3px; height: 34px; border: 1px solid #ccc; vertical-align: top; padding: 0px 10px; }
+
+#main .divs .zc { font-size: 14px; vertical-align: top; }
+
+#main .divs .cbox { width: 15px; margin-bottom: 0px; }
+
+#main .divs p { font-size: 13px; margin-bottom: 10px; }
+
+#main .divs #tjbtn { width: 100%; background: #E83917; height: 40px; color: white; margin: 10px 0px; border-radius: 3px; }

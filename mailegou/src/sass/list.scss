@@ -1,0 +1,49 @@
+
+.mt{
+    width:2000px;
+    img{width: 100%;}
+    
+    .mtr{
+        position:absolute;
+        top:0px;right:1%;
+        width: 230px;
+       
+    }
+    .fixr{
+        position:fixed;top:30%;right:0px;
+        text-align:center;
+        img{
+            width: 50px;
+        }
+        ul{
+            li:hover{
+                color:blue;
+            }
+        }
+    }
+    .fixl{
+        position:fixed;top:30%;left:0px;
+        img{
+            width: 50px;
+        }
+    }
+}
+    .fixes{
+        display: none;
+    }
+#main{
+    height: 1000px;
+    margin:0 auto;
+    margin-left:40px;
+   
+    ul{
+        li{ 
+            width:200px;
+            float:left;
+            img{
+                width: 200px;
+            }
+        }
+    }
+}
+

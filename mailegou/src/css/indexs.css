@@ -1,0 +1,61 @@
+#zdq .jss .bgc { background: #CB3E25; }
+
+#banner { width: 800px; height: 474px; overflow: hidden; margin: 0 auto; }
+
+#ban { position: relative; padding-left: 10px; }
+
+#ban .banr { position: absolute; top: 0%; right: 4%; z-index: -400; }
+
+#zdq { width: 1000px; margin: 0 auto; padding-top: 30px; }
+
+#zdq i { display: inline-block; width: 40px; height: 40px; background: url("img/sprit.png") no-repeat; }
+
+#zdq .jss { width: 100%; text-align: center; margin-bottom: 51px; }
+
+#zdq .jss li { float: left; width: 20%; background: #444851; }
+
+#zdq .pp { margin-bottom: 90px; }
+
+.qhbox { position: relative; overflow: hidden; width: 1000px; margin: 0 auto; height: 350px; }
+
+.qhbox i { display: block; z-index: 999; width: 27px; height: 83px; position: absolute; top: 30%; background: url("../img/sprit.png") no-repeat; }
+
+.qhbox i:nth-of-type(1) { left: 0%; }
+
+.qhbox i:nth-of-type(2) { right: 0%; }
+
+.qhbox .zdqul { position: absolute; }
+
+.qhbox .zdqul li { width: 250px; float: left; text-align: center; }
+
+.qhbox .zdqul li img { width: 250px; }
+
+#zdq .qg2 { display: none; }
+
+.tmdiv { width: 1000px; margin: 0 auto; margin-bottom: 50px; }
+
+.tmdiv #tm li { float: left; width: 20%; overflow: hidden; }
+
+.tmdiv #tm li .tmm { overflow: hidden; height: 160px; }
+
+.tmdiv #tm li img { width: 160px; }
+
+#f1 { width: 1000px; margin: 0 auto; }
+
+#f1 .f1fl { width: 100px; }
+
+#f1 .f1fl h3 { background: blue; color: white; }
+
+#f1 .f1fl ul li { height: 20px; }
+
+#f1 .f1fl .littleban { position: relative; }
+
+#f1 .f1fl .littleban ul li { height: 78px; }
+
+#f1 .f1fc { width: 500px; margin-left: 30px; }
+
+#f1 .f1fc img { margin-bottom: 15px; }
+
+#f1 .f1fcc, #f1 .f1fr { width: 180px; }
+
+#f1 .f1fcc img, #f1 .f1fr img { margin-bottom: 15px; }

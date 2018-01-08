@@ -1,0 +1,79 @@
+#header .box { width: 100%; background: red; }
+
+#header .box span { vertical-align: top; color: white; }
+
+#header .header-right { width: 50px; height: 693px; background: black; position: fixed; top: 0px; right: 0px; color: white; text-align: center; padding-top: 80px; }
+
+#header .header-right img { position: absolute; top: 20px; left: -20px; }
+
+#header .header-right a span { margin-top: 20px; }
+
+#header .header-right a i { display: block; border-radius: 50%; background: red; width: 25px; height: 25px; margin: 0 auto; }
+
+#header .header-right .fr-b { padding-top: 260px; }
+
+#header .header-right .fr-b span i { display: block; height: 30px; width: 30px; background: url("../img/sprit.png") no-repeat; margin: 0 auto; }
+
+#header .header-bottom { margin-left: 52px; }
+
+#header .header-bottom ul li { padding: 5px 10px; float: left; }
+
+#header .header-bottom ul li a { line-height: 12px; }
+
+#header .header-bottom ul li a i { display: inline-block; height: 15px; width: 20px; background: url("../img/sprit.png") no-repeat; }
+
+#header .header-bottom ul li:nth-of-type(4) span { background: url("../img/sprit.png") no-repeat; width: 15px; height: 15px; display: inline-block; }
+
+#header .header-bottom ul.fr { margin-right: 70px; }
+
+#header .header-bottom ul.fr li { position: relative; border-right: 1px solid #ccc; }
+
+#header .header-bottom ul.fr li i { display: inline-block; height: 15px; width: 20px; background: url("../img/sprit.png") no-repeat; }
+
+#header .header-bottom ul.fr .em { display: none; }
+
+#header .header-bottom ul.fr .eem:hover .em { display: block; position: absolute; top: 27px; left: -110px; }
+
+#header .header-bottom ul.fr .mygou ul { height: 31px; display: none; overflow: hidden; position: absolute; top: 0px; left: -3px; background: white; border: 1px solid black; }
+
+#header .header-bottom ul.fr .mygou ul li { border: none; float: none; width: 113px; }
+
+#header .hfl { padding-left: 50px; padding-right: 110px; }
+
+#header .hct { width: 530px; }
+
+#header .hct p:nth-of-type(1) { padding-top: 40px; }
+
+#header .hct p:nth-of-type(1) input { width: 400px; height: 40px; border: 1px solid red; }
+
+#header .hct p:nth-of-type(1) button { width: 94px; padding: 6px 15px; font-size: 22px; background: red; color: white; }
+
+#header .hcl { margin-right: 56px; padding-top: 10px; }
+
+#header .headfooter .hfooterl { padding-left: 52px; position: relative; }
+
+#header .headfooter .hfooterl ul { position: absolute; float: left; }
+
+#header .headfooter .hfooterl ul .fli { height: 32px; width: 180px; background: #CB3E25; padding: 4px 40px; }
+
+#header .headfooter .hfooterl ul .dht { position: absolute; top: 37px; left: 0px; z-index: 900; }
+
+#header .headfooter .hfooterl ul .dht li { width: 181px; height: 52px; background: #CB3E25; color: white; position: relative; padding-right: 40px; font-size: 12px; }
+
+#header .headfooter .hfooterl ul .dht i { display: inline-block; width: 35px; height: 100%; background: url("../img/sprit.png") no-repeat; float: left; }
+
+#header .headfooter .hfooterc ul { margin-left: 230px; }
+
+#header .headfooter .hfooterc ul li { padding: 5px 13px; float: left; position: relative; }
+
+#header .headfooter .hfooterc ul li .ydt { display: block; width: 31px; height: 2px; background: red; position: absolute; }
+
+#header .headfooter .hfooterc ul li .ydt:after { content: ''; display: block; border: 5px solid transparent; border-bottom: 5px solid red; position: absolute; left: 35%; top: -9px; }
+
+#header .headfooter .hfooterr { padding-left: 49px; margin-right: 70px; background: #F9F9F9; font-size: 16px; }
+
+#header .headfooter .hfooterr span { display: inline-block; height: 30px; width: 30px; background: url("../img/sprit.png") no-repeat; }
+
+#header .headfooter .hfooterr a { display: inline-block; height: 100%; }
+
+#header .headfooter .hfooterr a i { display: inline-block; vertical-align: top; margin-top: 5px; }

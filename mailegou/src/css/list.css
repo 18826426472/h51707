@@ -1,0 +1,23 @@
+.mt { width: 2000px; }
+
+.mt img { width: 100%; }
+
+.mt .mtr { position: absolute; top: 0px; right: 1%; width: 230px; }
+
+.mt .fixr { position: fixed; top: 30%; right: 0px; text-align: center; }
+
+.mt .fixr img { width: 50px; }
+
+.mt .fixr ul li:hover { color: blue; }
+
+.mt .fixl { position: fixed; top: 30%; left: 0px; }
+
+.mt .fixl img { width: 50px; }
+
+.fixes { display: none; }
+
+#main { height: 1000px; margin: 0 auto; margin-left: 40px; }
+
+#main ul li { width: 200px; float: left; }
+
+#main ul li img { width: 200px; }
